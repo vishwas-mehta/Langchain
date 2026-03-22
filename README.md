@@ -1,1 +1,1 @@
-#initial reaadme content
+This is langchain practice github
